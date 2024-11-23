@@ -6,11 +6,9 @@ export default function FrontendLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html>
       <body>
       {children}
       <SanityLive />
       </body>
-    </html>
   )
 }
