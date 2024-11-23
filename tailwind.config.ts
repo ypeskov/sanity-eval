@@ -15,6 +15,5 @@ export default {
       },
     },
   },
-  theme: {},
   plugins: [],
 } satisfies Config;
